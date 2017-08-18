@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#--coding: utf-8 --
+#-*-coding: utf-8 -*-
 """
 注意模块是怎么起作用的：用import 导入了模块，然后按照"模块.函数"的格式使用这个模块的函数
 import math
