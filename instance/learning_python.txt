@@ -1,0 +1,10 @@
+In Python you can know Python version.
+In Python you can learn Character.
+In Python you can know how to insert,change,delete list.
+In Python you can learn list,tuple difference.
+In Python you can know if.
+In Python you can learn dictionary and key,value.
+In Python you can use input and while function.
+In Python you can know how to define a function.
+In Python you can create annd use class.
+
